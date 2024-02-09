@@ -500,6 +500,22 @@
  */
 
 /**
+ * @author sg5506844 [sg5506844@gmail.com]
+ * @copyright Crown Copyright 2021
+ * @license Apache-2.0
+ *
+ * Modified by Raka-loah@github for zh-CN i18n
+ */
+
+/**
+ * @author sw5678
+ * @copyright Crown Copyright 2016
+ * @license Apache-2.0
+ *
+ * Modified by Raka-loah@github for zh-CN i18n
+ */
+
+/**
  * @author tcode2k16 [tcode2k16@gmail.com]
  * @copyright Crown Copyright 2018
  * @license Apache-2.0
@@ -575,6 +591,28 @@
  *
  * @author PenguinGeorge [george@penguingeorge.com]
  * @copyright Crown Copyright 2018
+ * @license Apache-2.0
+ *
+ * Modified by Raka-loah@github for zh-CN i18n
+ */
+
+/**
+ * Base92 resources.
+ *
+ * @author sg5506844 [sg5506844@gmail.com]
+ * @copyright Crown Copyright 2021
+ * @license Apache-2.0
+ *
+ * Modified by Raka-loah@github for zh-CN i18n
+ */
+
+/**
+ * Based on murmurhash-js (https://github.com/garycourt/murmurhash-js)
+ * @author Gary Court
+ * @license MIT
+ *
+ * @author AliceGrey [alice@grey.systems]
+ * @copyright Crown Copyright 2024
  * @license Apache-2.0
  *
  * Modified by Raka-loah@github for zh-CN i18n
