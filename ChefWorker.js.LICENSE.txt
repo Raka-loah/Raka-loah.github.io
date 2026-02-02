@@ -188,6 +188,14 @@
  */
 
 /**
+ * @author Medjedtxm
+ * @copyright Crown Copyright 2025
+ * @license Apache-2.0
+ *
+ * Modified by Raka-loah@github for zh-CN i18n
+ */
+
+/**
  * @author MikeCAT
  * @license Apache-2.0
  *
@@ -915,6 +923,17 @@
  * @license Apache-2.0
  *
  * Modified by Raka-loah@github for zh-CN i18n
+ */
+
+/**
+ * Pure JavaScript implementation of Bech32 and Bech32m encoding.
+ *
+ * Bech32 is defined in BIP-0173: https://github.com/bitcoin/bips/blob/master/bip-0173.mediawiki
+ * Bech32m is defined in BIP-0350: https://github.com/bitcoin/bips/blob/master/bip-0350.mediawiki
+ *
+ * @author Medjedtxm
+ * @copyright Crown Copyright 2025
+ * @license Apache-2.0
  */
 
 /**
